@@ -24,6 +24,10 @@ while True:
         elif div==20:
             div=10
         elif div==10:
+            div=5
+        elif div==5:
+            div=2
+        elif div==2:
             div=1
         sob = 0
         if tot==0:
